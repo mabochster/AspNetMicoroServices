@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 
 namespace Comair.Console.MockUserCreator
 {
@@ -6,7 +6,7 @@ namespace Comair.Console.MockUserCreator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Hello World!");
         }
     }
 }
